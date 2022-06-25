@@ -1,10 +1,21 @@
 body {
+    background-color: beige;
+}
+
+.home-section {
+    height: 100vh;
     background-color: lightsteelblue;
+}
+
+@media (max-width: 768px) {
+    .md-display {
+        display: none;
+    }
 }
 
 .jumbo-container {
     background-color: lightsteelblue;
-    margin: auto;
+    margin: 10rem auto;
     width: 60%;
 }
 
