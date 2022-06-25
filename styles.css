@@ -22,3 +22,7 @@ body {
 .sign-up-btn {
     margin: 4rem 0 3rem;
 }
+
+.sign-btn {
+    box-shadow: 8px;
+}
