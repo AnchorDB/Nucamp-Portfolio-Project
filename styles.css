@@ -1,0 +1,13 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.jumbo-container {
+    background-color: lightsteelblue;
+    margin: auto;
+    width: 60%;
+}
+
+.sign-up-btn {
+    margin: 4rem 0 3rem;
+}
