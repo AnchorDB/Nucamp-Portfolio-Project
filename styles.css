@@ -49,6 +49,20 @@ body {
     box-shadow: 8px;
 }
 
+.card-section-text {
+    font-size: 1.1rem;
+    color: rgb(87, 86, 86);
+}
+
+.card {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card-body {
+    border-radius: 10px;
+}
+
 .submit-your-own {
     background-color: lightsteelblue;
 }
@@ -74,6 +88,7 @@ body {
 .page-footer {
     background-color: lightsteelblue;
     margin: auto;
+    font-size: 1.1rem;
 }
 
 .footer-width {
